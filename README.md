@@ -28,7 +28,7 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/shaiadul/memify.git
-cd memify
+cd memify app
 ```
 
 Install dependencies:
